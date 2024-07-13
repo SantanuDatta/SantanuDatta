@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on some cool stuffs
+- 🌱 I’m currently learning and working on different laravel apps
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/santanudatta94/">LinkedIn</a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantanuDatta&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <!--
 **SantanuDatta/SantanuDatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
