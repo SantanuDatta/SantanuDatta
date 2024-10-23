@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I am a web developer from Bangladesh working with a strong focus on laravel mainly using MVC or TALL stack. 
-I have been web developing field for 7 years now and for the past 3 years, I’ve been specializing in Laravel, particularly enjoying how the TALL stack enables me to build dynamic and modern web applications. FilamentPHP is awesome btw.
-- 📫 Want to hire me: <a href="mailto://santanudatta94@gmail.com">santanudatta94@gmail.com</a>
+I am a web developer from Bangladesh working with a strong focus on laravel mainly using MVC or TALL stack I like Vue.js too. 
+
+I have been web developing field for 7 years now and for the past 3 years, I’ve been specializing in Laravel, particularly enjoying how the TALL stack enables me to build dynamic and modern web applications. 
+
+FilamentPHP is awesome btw.
+
+📫 How to reach me: <a href="mailto://santanudatta94@gmail.com">santanudatta94@gmail.com</a>
 
 
 <!--
