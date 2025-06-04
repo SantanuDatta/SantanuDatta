@@ -1,25 +1,61 @@
-## Hi there 👋
+# 👋 Hello, I'm Santanu Datta – Full Stack Developer
 
-I am a web developer from Bangladesh working with a strong focus on laravel mainly using MVC or TALL stack I like Vue.js too. 
+Welcome to my GitHub profile! I’m a a passionate and experienced 🚀 **Full Stack Web Developer** with a deep passion for building modern, maintainable, and scalable web applications using **Laravel 11** and **Vue 3**.
 
-I have been web developing field for 7 years now and for the past 3 years, I’ve been specializing in Laravel, particularly enjoying how the TALL stack enables me to build dynamic and modern web applications. 
+---
 
-FilamentPHP is awesome btw.
+## 🧑‍💻 About Me
 
-📫 How to reach me: <a href="mailto://santanudatta94@gmail.com">santanudatta94@gmail.com</a>
+- 🛠 I specialize in **Laravel** and **Vue 3 (Composition API)** with 3+ years of hands-on experience.
+- 🧩 I design clean REST APIs with **strict type enforcement**, **PSR-12** compliance, and **static analysis (PHPStan level 6)**.
+- ⚙️ I use **FilamentPHP** for powerful admin panels and **Headless UI** + **Tailwind CSS** for front-end UI/UX.
+- 🔁 I implement **Job Queues**, **Events**, and **Caching (Redis/Memcached)** for optimal performance.
+- 🧪 I write reliable, test-driven code with **PestPHP** and ensure code quality using **PHPStan**.
+- 🧠 I follow **MVC**, **Action Class architecture** and **modular architecture** principles for maintainability and scale.
 
+---
 
-<!--
-**SantanuDatta/SantanuDatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+### 🔹 Backend
+- **Laravel 11**, **Eloquent ORM**, **Sanctum Auth**
+- **PHP**, **Form Requests**, **API Resources**
+- **REST APIs**, **OAuth2**, **Job Queues**
+- **Redis**, **Memcached**, **MySQL**
+- **PHPStan**, **PestPHP**, **Rector**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔸 Frontend
+- **Vue 3 (Composition API)**, **Pinia (defineStore)**
+- **Vue Router (lazy-loaded)**, **Axios (interceptors)**
+- **Tailwind CSS**, **Bootstrap**
+- **Vite**, **Alpine.js**, **Blade templates**, **Livewire**
+
+### 🔧 DevOps & Tooling
+- **Herd**, **Composer**
+- **Git + GitHub**, **GitHub Actions**, **VS Code**
+- **PHPStan**, **Rector**
+
+---
+
+## 📦 Project Principles
+
+- ✨ Thin Controllers, Single-responsibility **Action classes** 
+- 🔍 Eloquent Scopes for query reuse  
+- 🧰 Middleware for request preprocessing  
+- 📁 API versioning with Resources  
+- ⚠️ Centralized error handling  
+- 💡 Component-based Vue apps (modular & lazy-loaded)
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to reach out for collaboration:
+
+- ✉️ Email: <a href="mailto://santanudatta94@gmail.com">santanudatta94@gmail.com</a>
+- 🐦 Twitter/X: [@SantanuDatta94](https://twitter.com/santanudatta94)
+- 💼 LinkedIn: [linkedin.com/in/santanudatta94](https://linkedin.com/in/santanudatta94)
+
+---
+
+Thanks for stopping by – let's build something exceptional together! 🚀
