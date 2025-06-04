@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a a passionate and experienced 🚀 **Full S
 
 - 🛠 I specialize in **Laravel** and **Vue 3 (Composition API)** with 3+ years of hands-on experience.
 - 🧩 I design clean REST APIs with **strict type enforcement**, **PSR-12** compliance, and **static analysis (PHPStan level 6)**.
-- ⚙️ I use **FilamentPHP** for powerful admin panels and **Headless UI** + **Tailwind CSS** for front-end UI/UX.
+- ⚙️ I use **FilamentPHP** for powerful admin panels and **Tailwind CSS** or on some occation **Bootstrap** for front-end UI/UX.
 - 🔁 I implement **Job Queues**, **Events**, and **Caching (Redis/Memcached)** for optimal performance.
 - 🧪 I write reliable, test-driven code with **PestPHP** and ensure code quality using **PHPStan**.
 - 🧠 I follow **MVC**, **Action Class architecture** and **modular architecture** principles for maintainability and scale.
