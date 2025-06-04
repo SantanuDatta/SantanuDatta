@@ -58,4 +58,4 @@ Feel free to reach out for collaboration:
 
 ---
 
-Thanks for stopping by – let's build something exceptional together! 🚀
+Thanks for stopping by 😄
