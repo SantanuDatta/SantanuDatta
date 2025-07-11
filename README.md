@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Santanu Datta – Full Stack Developer
 
-Welcome to my GitHub profile! I’m a passionate and experienced 🚀 **Full Stack Web Developer** with a deep passion for building modern, maintainable, and scalable web applications using **Laravel 11** and **Vue 3**.
+Welcome to my GitHub profile! I’m a passionate and experienced 🚀 **Full Stack Web Developer** with a deep passion for building modern, maintainable, and scalable web applications using **Laravel 11+** and **Vue 3**.
 
 ---
 
