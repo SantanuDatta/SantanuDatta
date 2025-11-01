@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I’m a passionate and experienced 🚀 **Full Sta
 - **PHP**, **Form Requests**, **API Resources**
 - **REST APIs**, **OAuth2**, **Job Queues**
 - **Redis**, **Memcached**, **MySQL**
-- **PHPStan**, **PestPHP**, **Rector**
 
 ### 🔸 Frontend
 - **Vue 3 (Composition API)**, **Pinia (defineStore)**
@@ -31,9 +30,9 @@ Welcome to my GitHub profile! I’m a passionate and experienced 🚀 **Full Sta
 - **Vite**, **Alpine.js**, **Blade templates**, **Livewire**
 
 ### 🔧 DevOps & Tooling
-- **Herd**, **Composer**
+- **Herd**, **Composer**, **Valet**
 - **Git + GitHub**, **GitHub Actions**, **VS Code**
-- **PHPStan**, **Rector**
+- **PHPStan**, **PestPHP**, **Rector**
 
 ---
 
