@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Santanu Datta – Full Stack Developer
 
-Welcome to my GitHub profile! I’m a passionate and experienced 🚀 **Full Stack Web Developer** with a deep passion for building modern, maintainable, and scalable web applications using **Laravel 11+** and **Vue 3**.
+Welcome to my GitHub profile! I’m a passionate and experienced 🚀 **Full Stack Web Developer** with a deep passion for building modern, maintainable, and scalable web applications using **Laravel 13+** and **Vue 3**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🛠 I specialize in **Laravel** and **Vue 3 (Composition API)** with 3+ years of hands-on experience.
+- 🛠 I specialize in **Laravel** and **Vue 3 (Composition API)** with 4+ years of hands-on experience.
 - 🧩 I design clean REST APIs with **strict type enforcement**, **PSR-12** compliance, and **static analysis (PHPStan level 6)**.
 - ⚙️ I use **FilamentPHP** for powerful admin panels and **Tailwind CSS** or on some occation **Bootstrap** for front-end UI/UX.
 - 🔁 I implement **Job Queues**, **Events**, and **Caching (Redis/Memcached)** for optimal performance.
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m a passionate and experienced 🚀 **Full Sta
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
-- **Laravel 11**, **Eloquent ORM**, **Sanctum Auth**
+- **Laravel 13**, **Eloquent ORM**, **Sanctum Auth**
 - **PHP**, **Form Requests**, **API Resources**
 - **REST APIs**, **OAuth2**, **Job Queues**
 - **Redis**, **Memcached**, **MySQL**
