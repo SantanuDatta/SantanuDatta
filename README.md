@@ -2,7 +2,7 @@
 
 Laravel/PHP backend developer focused on reliable business applications, REST APIs, admin panels, integrations, and payment workflows.
 
-Based in Bangladesh and open to remote work with US and European teams.
+Open to remote work with US and European teams.
 
 ## What I work with
 
