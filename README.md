@@ -39,7 +39,7 @@ Open to remote work with US and European teams.
 - Add payment, third-party API and AI capabilities
 - Deliver focused remote work with clear communication
 
-Some company work cannot be published because it is confidential. I share public projects, technical decisions and anonymized engineering lessons instead.
+I use this profile to share selected projects, engineering work and practical technical lessons.
 
 ## Contact
 
