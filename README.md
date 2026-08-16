@@ -24,6 +24,13 @@ Open to remote work with US and European teams.
 | [CarRental](https://github.com/SantanuDatta/CarRental) | Booking-oriented Laravel application |
 | [FilaBlog](https://github.com/SantanuDatta/FilaBlog) | Laravel/PHP content-management functionality |
 
+## Side projects & open-source collaboration
+
+- [Network-Speed-Monitor](https://github.com/SantanuDatta/Network-Speed-Monitor) — A public TypeScript project focused on network monitoring.
+- [Sketchi](https://github.com/mossbytehq/Sketchi) — Contributor to an organization-owned collaborative whiteboard project written in Rust.
+
+These projects show both independent experimentation and collaboration in a larger engineering codebase.
+
 ## How I can help
 
 - Build or extend Laravel backends and REST APIs
